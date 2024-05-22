@@ -1,4 +1,4 @@
-[gd_scene load_steps=2 format=3 uid="uid://dlxet2qx4otqt"]
+[gd_scene load_steps=2 format=3 uid="uid://bsnrmhwdnn4r"]
 
 [ext_resource type="Texture2D" uid="uid://dwhrude70bnf3" path="res://chehaanneck.png" id="1_grnut"]
 
@@ -6,4 +6,5 @@
 
 [node name="Chehaanneck" type="Sprite2D" parent="."]
 position = Vector2(563, 277)
+scale = Vector2(9.18828, 0.405442)
 texture = ExtResource("1_grnut")
