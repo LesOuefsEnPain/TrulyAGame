@@ -1,10 +1,16 @@
-[gd_scene load_steps=2 format=3 uid="uid://bsnrmhwdnn4r"]
+[gd_scene load_steps=3 format=3 uid="uid://bsnrmhwdnn4r"]
 
 [ext_resource type="Texture2D" uid="uid://dwhrude70bnf3" path="res://chehaanneck.png" id="1_grnut"]
+[ext_resource type="Texture2D" uid="uid://ckvc3im500ogv" path="res://2024_05_21_0ou_Kleki (1).png" id="2_kwwtc"]
 
 [node name="TestScene" type="Node2D"]
 
 [node name="Chehaanneck" type="Sprite2D" parent="."]
 position = Vector2(563, 277)
-scale = Vector2(9.18828, 0.405442)
+scale = Vector2(19.4781, 1.06252)
 texture = ExtResource("1_grnut")
+
+[node name="202405210OuKleki(1)" type="Sprite2D" parent="."]
+position = Vector2(1792, 2163)
+scale = Vector2(1.7379, 1.16303)
+texture = ExtResource("2_kwwtc")
